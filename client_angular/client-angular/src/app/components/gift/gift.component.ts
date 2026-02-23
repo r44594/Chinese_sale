@@ -189,7 +189,7 @@ saveGift() {
         });
     }
   }
-
+  
 resetForm() {
     this.newGift = {
         id: 0,
